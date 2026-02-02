@@ -1,0 +1,6 @@
+hospital,ward,total_beds,available_beds,icu_beds,ventilators
+Civil Hospital Solapur,Ward 15,500,120,20,10
+District Hospital,Ward 8,300,75,15,5
+Ashwini Sahakari Hospital,Ward 22,200,45,10,3
+Primary Health Center 1,Ward 3,50,12,0,0
+Primary Health Center 2,Ward 35,50,8,0,0
